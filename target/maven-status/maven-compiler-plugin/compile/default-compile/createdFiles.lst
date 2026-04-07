@@ -1,0 +1,8 @@
+com\cheney\chat\controller\ChatController.class
+com\cheney\chat\service\SparkChatService.class
+com\cheney\chat\config\SparkProperties.class
+com\cheney\chat\service\SparkChatService$1.class
+com\cheney\chat\model\ChatRequest$Message.class
+com\cheney\chat\CheneyChatApplication.class
+com\cheney\chat\model\ChatRequest.class
+com\cheney\chat\util\SparkAuthUtil.class

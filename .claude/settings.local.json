@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.xfyun.cn)",
+      "Bash(mvn compile:*)",
+      "Bash(where mvn:*)",
+      "Bash(where java:*)",
+      "Read(//c//**)",
+      "Read(//d//**)",
+      "Bash(mvn -v)",
+      "Bash(cmd.exe:*)",
+      "Bash(powershell.exe:*)"
+    ]
+  }
+}
